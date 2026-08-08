@@ -72,7 +72,7 @@ I'm a **Java Full-Stack Developer** who builds enterprise-grade backends and mod
   </picture>
 </div>
 
-> ⚠️ **Snake tabhi dikhega jab `output` branch pe SVG generate ho.** Iske liye niche diya hua `snake.yml` workflow apne `shivamsharma-star/shivamsharma-star` repo ke `.github/workflows/` folder mein daalo — main isko separate file mein bhi de raha hoon. Ek baar Actions tab se manually run kar dena, phir yeh daily auto-update hoga.
+
 
 ---
 
@@ -120,7 +120,6 @@ I'm a **Java Full-Stack Developer** who builds enterprise-grade backends and mod
   <img src="https://raw.githubusercontent.com/shivamsharma-star/shivamsharma-star/output/profile-3d-contrib/grid.svg" alt="3D Contribution Calendar" width="95%" />
 </div>
 
-> Iske liye `profile-3d-contrib` action bhi `snake.yml` jaisa hi ek workflow file mein add karna hoga — niche di gayi `contrib3d.yml` file use kar lena.
 
 ---
 
