@@ -114,6 +114,24 @@ I'm a **Java Full-Stack Developer** who builds enterprise-grade backends and mod
 
 ---
 
+### 🗓️ 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shivamsharma-star/shivamsharma-star/output/profile-3d-contrib/grid.svg" alt="3D Contribution Calendar" width="95%" />
+</div>
+
+> Iske liye `profile-3d-contrib` action bhi `snake.yml` jaisa hi ek workflow file mein add karna hoga — niche di gayi `contrib3d.yml` file use kar lena.
+
+---
+
+### 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
 ### 📫 Connect With Me
 
 <p align="center">
