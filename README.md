@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&height=80&lines=Hi+there,+I'm+Shivam!+👋;Java+Full-Stack+Developer;Spring+Boot+%26+Next.js+Expert;Building+Robust+Applications+☕;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&height=80&lines=Hi+there,+I'm+Shivam!+👋;Java+Full-Stack+Developer;Spring+Boot+%26+Next.js+Expert;Building+Enterprise+Apps+☕;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivamsharma-star&label=Profile%20Views&color=F7A41D&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/shivamsharma-star?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/shivamsharma-star?label=Total%20Stars&style=social" alt="Stars" />
-  <img src="https://img.shields.io/badge/Java-☕-F7A41D?style=flat&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-☕-F7A41D?style=flat&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ I'm a **Java Full-Stack Developer** passionate about building enterprise-grade a
 
 ---
 
-### 🐍 Contribution Snake (Dark & Light)
+### 🐍 Contribution Snake (Auto Dark/Light Mode)
 
 <div align="center">
   <picture>
