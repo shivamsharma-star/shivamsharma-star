@@ -116,9 +116,7 @@ I'm a **Java Full-Stack Developer** who builds enterprise-grade backends and mod
 
 ### 🗓️ 3D Contribution Calendar
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shivamsharma-star/shivamsharma-star/output/profile-3d-contrib/grid.svg" alt="3D Contribution Calendar" width="95%" />
-</div>
+<div align="center"> <img src="https://raw.githubusercontent.com/shivamsharma-star/shivamsharma-star/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="95%" /> </div>
 
 
 ---
